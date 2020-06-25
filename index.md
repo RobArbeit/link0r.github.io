@@ -8,3 +8,5 @@
 * a hero which never sleep
 * unbreakable
 * loves the night to help people as much as his great love
+
+> It's not who I am underneath, but what I do that defines me.
